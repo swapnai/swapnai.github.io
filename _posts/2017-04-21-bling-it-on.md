@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joy is a Clean Test Run"
-date: 2017-04-21
+date: 2017-06-28
 ---
  MainTest
 [==========] Running 1 test from 1 test case.
